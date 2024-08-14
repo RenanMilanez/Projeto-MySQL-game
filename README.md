@@ -1,6 +1,6 @@
 # Projeto  MySQL  LOL 📊
 
-## SOBRE O PROJETO:
+## SOBRE O PROJETO: 📈
 
 Um exemplo básico de MySQL.
 
@@ -13,8 +13,8 @@ E os items, com seus atributos, id's, nome, status, a descrição de cada item e
 CREATE TABLE = para criação das tabelas. <br/>
 DROP TABLE = para apagar a tabela. <br/>
 INSERT INTO = inserir as informações a respeito das determinadas tabelas criadas.<br/>
-SELECT * FROM (Items ou Champs ou Jungle_Monster) = para selecionar a tabela para mostrar.
-
+SELECT * FROM (Items ou Champs ou Jungle_Monster) = para selecionar a tabela para mostrar.<br/>
+ORDER BY = Organizar das tabelas selecionadas, na ordem de um dos Atributos selecionados.
 
 
 ### Champions
