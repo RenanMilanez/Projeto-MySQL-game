@@ -8,9 +8,9 @@ Projeto de Banco de Dados MySQL, feito no VSCODE, com 157 champions, com os id's
 Além dos champions tem os Monstros da Jungle com os ATRIBUTOS, id's, nomes, tempo para ressurgir, e a Descrição, no total de 11.
 E os items, com seus atributos, id's, nome, status, a descrição de cada item e o custo do valor da compra do item.
 
-USANDO CREATE TABLE = para criação das tabelas.
-DROP TABLE = para apagar a tabela.
-SELECT * FROM (Items ou Champs ou Jungle_Monster) = para selecionar a tabela para mostrar.
+USANDO CREATE TABLE = para criação das tabelas.//
+DROP TABLE = para apagar a tabela.//
+SELECT * FROM (Items ou Champs ou Jungle_Monster) = para selecionar a tabela para mostrar.//
 
 
 
