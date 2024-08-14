@@ -1,0 +1,1 @@
+SELECT * FROM `league_of_legends`.`items` LIMIT 1000;
