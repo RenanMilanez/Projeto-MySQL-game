@@ -1,1 +1,0 @@
-SELECT * FROM `league_of_legends`.`jungle_monsters` LIMIT 1000;
